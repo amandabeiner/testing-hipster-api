@@ -1,8 +1,7 @@
 class HipsterIpsumFake
   def fetch_data
     {
-      "text" => "I am not a hipster",
-      "params" => { "type" => "hipster-greek" }
+      "text" => "fair trade craft beer meggings"
     }
   end
 end

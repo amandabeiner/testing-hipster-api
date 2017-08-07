@@ -5,13 +5,7 @@ describe Hipster do
 
   describe "#text" do
     it "returns hipster text" do
-      expect(hipster.text).to include "I am not a hipster"
-    end
-  end
-
-  describe "#type" do
-    it "returns hipster type" do
-      expect(hipster.type).to eq "hipster-greek"
+      expect(hipster.text).to include "meggings"
     end
   end
 end

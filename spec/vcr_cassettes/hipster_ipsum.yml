@@ -19,54 +19,48 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Mon, 06 Feb 2017 19:04:06 GMT
+      - Wed, 02 Aug 2017 18:04:24 GMT
       Server:
       - Apache
       X-Powered-By:
       - PHP/5.4.4
       Set-Cookie:
-      - hipsterjesus=858mnhiiakleas62aav3s4ihg4; path=/
+      - hipsterjesus=vdhn43bmemf8avg0ossjscoqq5; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
       - no-store, no-cache, must-revalidate, post-check=0, pre-check=0
       Pragma:
       - no-cache
-      Access-Control-Allow-Origin:
-      - "*"
       Content-Length:
-      - '2186'
+      - '1765'
       Content-Type:
       - application/json
     body:
       encoding: UTF-8
-      string: '{"text":"<p>Direct trade  vice chambray schlitz culpa  enim.  Deserunt  knausgaard
-        distillery reprehenderit, aesthetic magna vexillologist jean shorts.  Semiotics
-        aliqua irure  minim pour-over.  Sapiente copper mug vinyl, ugh jianbing laboris  banh
-        mi reprehenderit  tacos put a bird on it activated charcoal.  Organic brooklyn
-        velit  blog ea tousled.  Chartreuse ex distillery, fap sartorial est  ad iceland.  Hexagon
-        literally master cleanse, pour-over pickled meggings meh fingerstache umami
-        aliqua.<\/p>\n<p>Veniam celiac sed, chia iceland slow-carb polaroid proident
-        hell of tumblr elit non.  Sriracha plaid everyday carry, irony unicorn consequat
-        narwhal id.  Humblebrag sartorial yr hexagon, banjo schlitz tote bag crucifix
-        pug.  Hella beard culpa  vinyl, elit keytar normcore pok pok activated charcoal
-        ramps snackwave tempor cray.  Marfa retro pork belly occupy blue bottle tumblr
-        cred ethical, paleo everyday carry.  Consectetur kitsch eiusmod, delectus
-        dreamcatcher aesthetic accusamus enamel pin waistcoat umami butcher selfies
-        truffaut kinfolk green juice.  Proident cornhole laboris  mlkshk, consectetur
-        vegan retro pabst labore wolf vexillologist salvia schlitz normcore echo park.<\/p>\n<p>Occaecat  trust
-        fund gastropub cray.  Retro odio bushwick gluten-free cold-pressed aliquip.  Kickstarter
-        ea trust fund, cardigan cillum  adipisicing sed helvetica activated charcoal
-        tbh.  Retro ea umami ethical consectetur four loko neutra.  Brooklyn church-key
-        eiusmod, microdosing af hoodie eu  craft beer hammock wolf cold-pressed skateboard
-        banh mi.  Tumeric sed echo park gluten-free.  Hella polaroid vinyl bespoke
-        raclette yuccie, venmo distillery stumptown hoodie.<\/p>\n<p>Kickstarter tempor
-        lomo shabby chic live-edge, before they sold out heirloom cliche mumblecore
-        nulla  cred voluptate  vegan.  Keffiyeh selfies cornhole, irure  pop-up craft
-        beer pug.  Fam cillum  chicharrones truffaut everyday carry vice.  Vegan before
-        they sold out gastropub deserunt, la croix small batch paleo sint  pop-up
-        wolf.  Neutra irony shabby chic cray, tumblr tofu deserunt.  Vinyl wolf chillwave
-        salvia.  Tote bag tilde prism whatever.<\/p>","params":{"paras":4,"type":"hipster-latin"}}'
-    http_version:
-  recorded_at: Mon, 06 Feb 2017 19:04:06 GMT
+      string: '{"text":"flannel American Apparel deep v High Life Neutra organic mixtape
+        master cleanse paleo ugh blog gluten-free four loko bespoke bitters dreamcatcher
+        Etsy Banksy selvage iPhone mlkshk hella cray 8-bit McSweeney''s seitan meh
+        butcher Thundercats before they sold out Pitchfork whatever typewriter artisan
+        kogi PBR fixie Intelligentsia Schlitz semiotics biodiesel yr cornhole Godard
+        Marfa small batch occupy drinking vinegar Austin Pinterest ennui brunch Wes
+        Anderson hashtag Carles twee narwhal trust fund craft beer swag asymmetrical
+        messenger bag distillery Shoreditch PBR&B irony Tonx fap sustainable readymade
+        banh mi leggings Helvetica viral tousled tote bag forage chia Odd Future mustache
+        tofu post-ironic salvia sriracha Portland next level church-key Brooklyn Vice
+        selfies Echo Park locavore wolf shabby chic actually VHS quinoa disrupt food
+        truck pug kale chips stumptown gastropub pork belly +1 YOLO Cosby sweater
+        aesthetic chillwave 90''s sartorial normcore XOXO flexitarian wayfarers cardigan
+        gentrify mumblecore try-hard polaroid pop-up Bushwick pickled photo booth
+        Tumblr jean shorts banjo keytar lo-fi chambray literally bicycle rights ethical
+        fashion axe umami tattooed roof party direct trade  squid fanny pack keffiyeh
+        cred beard cliche vegan street art hoodie lomo you probably haven''t heard
+        of them kitsch art party authentic put a bird on it Williamsburg pour-over
+        raw denim synth slow-carb Truffaut letterpress single-origin coffee crucifix
+        skateboard heirloom Kickstarter vinyl plaid meggings retro 3 wolf moon DIY
+        fingerstache farm-to-table Blue Bottle scenester freegan","error": "Internal
+        Server Error","message": "Work still in Progress on 2017-06-23; towards truly
+        OSS! Quick fix in place on 2017-07-02; params are NOT being honored"}'
+    http_version: 
+  recorded_at: Wed, 02 Aug 2017 18:04:24 GMT
 recorded_with: VCR 3.0.3

@@ -7,7 +7,6 @@ require 'spec_helper'
 require 'rspec/rails'
 require "capybara/rails"
 
-# add this
 Dir[Rails.root.join("spec/support/**/*.rb")].each { |f| require f }
 
 

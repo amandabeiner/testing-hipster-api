@@ -2,19 +2,14 @@ class Hipster
   @@api = HipsterIpsum
   cattr_accessor :api
 
-  attr_reader :text, :type
+  attr_reader :text
 
   def initialize
     @text = text
-    @type = type
   end
 
   def text
     get_hipster_data["text"]
-  end
-
-  def type
-    get_hipster_data["params"]["type"]
   end
 
   private
